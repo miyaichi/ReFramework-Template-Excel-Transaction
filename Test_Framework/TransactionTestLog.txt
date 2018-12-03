@@ -1,0 +1,10 @@
+﻿
+=================================================
+Starting new set of 4 tests at 12:50:30  PM, 03/12/2018
+=================================================
+12:50:30 PM	Test 1 PASS  ---> ID-1
+12:50:30 PM	Test 2 FAIL  --->  ---> BRE
+12:50:30 PM	Test 3 FAIL  ---> ID-3 ---> BRE
+12:50:30 PM	Test 4 FAIL  ---> ID-4 ---> BRE
+================================
+12:50:30	Summary: 1/4 Tests Passed. Total execution time: 63,679,438,231 seconds
